@@ -1,6 +1,5 @@
 import "../styles/components/informationcontainer.sass";
 import { AiFillPhone, AiOutlineMail, AiFillEnvironment } from "react-icons/ai";
-import { FaWhatsapp } from "react-icons/fa";
 
 const InformationContainer = () => {
   return (

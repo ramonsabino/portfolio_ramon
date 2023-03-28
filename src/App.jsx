@@ -1,4 +1,3 @@
-import { Footer } from "./components/Footer.jsx";
 import MainContent from "./components/MainContent.jsx";
 import Sidebar from "./components/Sidebar.jsx";
 import "./styles/components/app.sass";
