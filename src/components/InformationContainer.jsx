@@ -10,11 +10,6 @@ const InformationContainer = () => {
         <div>
           <h3>Telefone</h3>
           <p>(85) 9 9765-1791 </p>
-          {/* <div className="wapp">
-            <FaWhatsapp id="cell" />
-            <h3>Whatssapp</h3>
-            <p>(85) 9 9290-7301</p>
-          </div> */}
         </div>
       </div>
 

@@ -9,6 +9,10 @@ const MainContent = () => {
       <About />
       <Tecnologies />
       <Project />
+      <footer id="footer">
+        Projeto baseado no portfolio do Matheus Batisti e todos os direitos
+        estão reservados a ele.
+      </footer>
     </main>
   );
 };
