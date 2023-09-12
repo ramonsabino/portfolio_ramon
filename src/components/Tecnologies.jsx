@@ -8,8 +8,11 @@ import {
   DiPostgresql,
   DiReact,
   DiGit,
-  DiJava,
+  DiNetmagazine,
 } from "react-icons/di";
+
+import { TbBrandCSharp } from "react-icons/tb";
+import { SiDotnet } from "react-icons/si";
 
 const tecno = [
   { id: "html", name: "HTML5", icon: <DiHtml5 /> },
@@ -18,7 +21,8 @@ const tecno = [
   { id: "node", name: "Node.JS", icon: <DiNodejsSmall /> },
   { id: "react", name: "React.JS", icon: <DiReact /> },
   { id: "git", name: "Git", icon: <DiGit /> },
-  { id: "java", name: "Java", icon: <DiJava /> },
+  { id: "cSharp", name: "C#", icon: <TbBrandCSharp /> },
+  { id: "dotnet", name: "ASP.NET", icon: <SiDotnet /> },
   { id: "postgres", name: "PostgreSQL", icon: <DiPostgresql /> },
   ,
 ];
